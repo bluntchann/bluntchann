@@ -22,9 +22,6 @@ I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring **DevOps En
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" alt="AWS" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" alt="MongoDB" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/452/mysql-logo.png" height="60" alt="MySQL" />
   </a>
@@ -33,12 +30,6 @@ I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring **DevOps En
   </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" alt="Terraform" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" height="60" alt="Ansible" />
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-ec2-1.svg" height="60" alt="EC2" />
   </a>
   <a href="https://aws.amazon.com/rds/" target="_blank">
     <img src="https://d2908q01vomqb2.cloudfront.net/e0ae5693b4e6f38334fdf046d4f9db56f58c471e/2021/11/23/rds-featured-image.png" height="60" alt="AWS RDS" />
