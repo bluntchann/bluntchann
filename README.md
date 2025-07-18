@@ -48,8 +48,8 @@ I am [Amal Siby](https://www.linkedin.com/in/amalee17/), an aspiring **DevOps En
 
 ### 📫 Let's Connect
 
-- 📧 Email: sibyamal16@gmail.com
-- 💼 LinkedIn: [Amal Siby]([https://www.linkedin.com/in/amalee17/])
+- 📧 Email: [sibyamal16@gmail.com](mailto:sibyamal16@gmail.com)  
+- 💼 LinkedIn: [Amal Siby](https://www.linkedin.com/in/amalee17/) 
 
 ---
 
