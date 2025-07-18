@@ -31,9 +31,6 @@ I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring **DevOps En
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" alt="Terraform" />
   </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank">
-    <img src="https://d2908q01vomqb2.cloudfront.net/e0ae5693b4e6f38334fdf046d4f9db56f58c471e/2021/11/23/rds-featured-image.png" height="60" alt="AWS RDS" />
-  </a>
 </p>
 
 ---
