@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring **DevOps Engineer** passionate about building robust and automated CI/CD pipelines.
+I am [Amal Siby](https://www.linkedin.com/in/amalee17/), an aspiring **DevOps Engineer** passionate about building robust and automated CI/CD pipelines.
 
 ---
 
