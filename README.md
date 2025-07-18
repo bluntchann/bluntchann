@@ -49,7 +49,7 @@ I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring **DevOps En
 ### 📫 Let's Connect
 
 - 📧 Email: [your-email@example.com](sibyamal16@gmail.com)  
-- 💼 LinkedIn: [Amal Siby]([https://www.linkedin.com/in/your-li](https://www.linkedin.com/in/amalee17/))  
+- 💼 LinkedIn: [Amal Siby]([https://www.linkedin.com/in/amalee17/)]
 
 ---
 
