@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am **[Amal Siby](https://www.linkedin.com/in/your-link)**, an aspiring DevOps Engineer passionate about building robust and automated CI/CD pipelines.  
-My recent project involves deploying a full-stack Django + React Notes App using **Jenkins**, **Docker**, and **AWS EC2**, all orchestrated with a clean CI/CD flow.
+I am [Amal Siby](https://www.linkedin.com/in/your-link), an aspiring DevOps Engineer passionate about building robust and automated CI/CD pipelines.  
+My recent project involves deploying a full-stack Django + React Notes App using Jenkins, Docker, and AWS EC2, all orchestrated with a clean CI/CD flow.
 
 ---
 
