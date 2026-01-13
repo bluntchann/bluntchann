@@ -38,9 +38,9 @@ I am [Amal Siby](https://www.linkedin.com/in/amalee17/), an aspiring **DevOps En
 ### 🧠 What I'm Learning / Building
 
 - Building CI/CD pipelines using Jenkins & GitHub Actions  
-- Deploying containerized applications with Docker & Kubernetes  
+- Deploying containerized applications with Docker 
 - Working with AWS EC2, S3, RDS, Route53, and IAM  
-- Automating infrastructure with Terraform & Ansible  
+-  Learning Automatiion infrastructure with Terraform   
 - Monitoring and logging tools for DevOps  
 - Web apps with Django + React + NGINX  
 
